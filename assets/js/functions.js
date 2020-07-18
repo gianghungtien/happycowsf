@@ -451,8 +451,7 @@
         instafeedSidebar = $('#instafeedSidebar').length,
         instafeedSection = $('#instafeedSection').length,
         InstaUserID = '6069962191',
-        /*YOUR_USER_ID*/
-        InstaAccessToken = '6069962191.1677ed0.2378d7ca8d274dae89847215f19cc93f'; /*YOUR_ACCESS_TOKEN*/
+        InstaAccessToken = '6069962191.1677ed0.2378d7ca8d274dae89847215f19cc93f';
     if (instafeedModule > 0) {
 
         var userFeedModule = new Instafeed({
